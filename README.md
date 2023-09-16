@@ -52,6 +52,5 @@ ATMs have significantly reduced activity in the early and late hours of the day 
 Scheduled maintenance should coincide with these periods of reduced activity. Additionally, ATMs should have maximum availability, especially during the peak activity periods for each bank branch
 
 ![0001](https://github.com/deyinkab/Wisabi-Transaction-Atm-Report/assets/71924531/baf67060-598f-442a-a0a3-08f6cfab0165)
-
 ![0002](https://github.com/deyinkab/Wisabi-Transaction-Atm-Report/assets/71924531/ff189e34-fbd3-4a00-a0d3-df3cbaa70ddd)
 ![0003](https://github.com/deyinkab/Wisabi-Transaction-Atm-Report/assets/71924531/9c31298e-43ba-4962-bf86-ea5ff5c4d939)
