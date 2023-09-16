@@ -49,6 +49,7 @@ In this transaction report, answers were provided to questions like:
 
 ATMs have significantly reduced activity in the early and late hours of the day (Before 5 am & After 8 pm). Lagos is the only exception as there is still noticeable activity after 8 pm.
 
-Scheduled maintenance should coincide with these periods of reduced activity. Additionally, ATMs should have maximum availability especially during the peak activity periods for each bank branch.
+Scheduled maintenance should coincide with these periods of reduced activity. Additionally, ATMs should have maximum availability especially during the peak activity periods for each bank branch
 
-44202dc[WISABI ATM.pdf](https://github.com/deyinkab/Wisabi-Transaction-Atm-Report/files/12639686/WISABI.ATM.pdf)
+[WISABI ATM.pdf](https://github.com/deyinkab/Wisabi-Transaction-Atm-Report/files/12639689/WISABI.ATM.pdf)
+
