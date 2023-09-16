@@ -9,8 +9,7 @@ Wisabi Bank is a leading financial institution in Nigeria, headquartered in Lago
 
 ## Business Objectives
 - Understand the demographics of Wisabi Bank's customers and their transaction patterns across different locations.
-- Identify the most popular ATM services offe![0001](https://github.com/deyinkab/Wisabi-Transaction-Atm-Report/assets/71924531/baf67060-598f-442a-a0a3-08f6cfab0165)
-red by Wisabi Bank and their usage trends.
+- Identify the most popular ATM services offerred by Wisabi Bank and their usage trends.
 - Identify potential opportunities for growth in the bank's services based on customer needs and transaction patterns.
 - Optimize Wisabi Bank's operations by identifying areas where efficiency can be improved.
 
@@ -25,7 +24,7 @@ In this transaction report, answers were provided to questions like:
 - What is the trend of transaction volume and transaction amount over time, and are there any seasonal trends or patterns?
 - What is the most common transaction type, and how does it vary by location and customer type (Wisabi customer vs. non-Wisabi customer)?
 - What is the average transaction amount and transaction frequency per customer by occupation and age group?
-- What is the percentage of transactions that are withdrawals, savings, balance enquiries, and transfers, and how does it vary by location and time of day?
+- What is the percentage of transactions that are withdrawals, savings, balance inquiries, and transfers, and how does it vary by location and time of day?
 - What is the distribution of transaction amounts and transaction frequency, and are there any outliers?
 - Which ATM locations have the highest and lowest utilization rates, and what factors contribute to this utilization rate?
 - What is the average transaction time by location, transaction type, and time of day, and how does it vary by customer type and occupation?
@@ -48,9 +47,11 @@ In this transaction report, answers were provided to questions like:
 
 ## Transaction Activity
 
-ATMs have significantly reduced activity in the early and late hours of the day (Before 5 am & After 8 pm). Lagos is the only exception as there is still noticeable activity after 8 pm.
+ATMs have significantly reduced activity in the early and late hours of the day (Before 5 am and after 8 pm). Lagos is the only exception as there is still noticeable activity after 8 pm.
 
-Scheduled maintenance should coincide with these periods of reduced activity. Additionally, ATMs should have maximum availability especially during the peak activity periods for each bank branch
+Scheduled maintenance should coincide with these periods of reduced activity. Additionally, ATMs should have maximum availability, especially during the peak activity periods for each bank branch
 
+![0001](https://github.com/deyinkab/Wisabi-Transaction-Atm-Report/assets/71924531/baf67060-598f-442a-a0a3-08f6cfab0165)
 
-
+![0002](https://github.com/deyinkab/Wisabi-Transaction-Atm-Report/assets/71924531/ff189e34-fbd3-4a00-a0d3-df3cbaa70ddd)
+![0003](https://github.com/deyinkab/Wisabi-Transaction-Atm-Report/assets/71924531/9c31298e-43ba-4962-bf86-ea5ff5c4d939)
