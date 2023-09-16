@@ -9,7 +9,8 @@ Wisabi Bank is a leading financial institution in Nigeria, headquartered in Lago
 
 ## Business Objectives
 - Understand the demographics of Wisabi Bank's customers and their transaction patterns across different locations.
-- Identify the most popular ATM services offered by Wisabi Bank and their usage trends.
+- Identify the most popular ATM services offe![0001](https://github.com/deyinkab/Wisabi-Transaction-Atm-Report/assets/71924531/baf67060-598f-442a-a0a3-08f6cfab0165)
+red by Wisabi Bank and their usage trends.
 - Identify potential opportunities for growth in the bank's services based on customer needs and transaction patterns.
 - Optimize Wisabi Bank's operations by identifying areas where efficiency can be improved.
 
@@ -51,5 +52,5 @@ ATMs have significantly reduced activity in the early and late hours of the day 
 
 Scheduled maintenance should coincide with these periods of reduced activity. Additionally, ATMs should have maximum availability especially during the peak activity periods for each bank branch
 
-[WISABI ATM.pdf](https://github.com/deyinkab/Wisabi-Transaction-Atm-Report/files/12639689/WISABI.ATM.pdf)
+
 
